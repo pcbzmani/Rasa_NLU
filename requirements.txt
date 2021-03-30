@@ -84,7 +84,7 @@ prometheus-client==0.4.2
 prompt-toolkit==1.0.14
 protobuf==3.6.1
 ptyprocess==0.6.0
-Pygments==2.2.0
+Pygments==2.7.4
 PyHamcrest==1.9.0
 PyInquirer==1.0.2
 PyJWT==1.6.4
